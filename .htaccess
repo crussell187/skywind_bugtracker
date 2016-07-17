@@ -1,3 +1,2 @@
 php_value date.timezone 'US/Central'
-
-
+php_value g_signup_use_capture OFF
